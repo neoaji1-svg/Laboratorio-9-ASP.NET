@@ -26,8 +26,12 @@ El sistema utiliza una página maestra (`MP.Master`) con barra de navegación y 
 ### Evidencia Visual (Capturas)
 > Agrega aquí tus capturas de pantalla (por ejemplo, en una carpeta `docs/` o `screenshots/`):
 - `Index.aspx` — Listado de registros activos y opciones del administrador (`Read`, `Update`, `Delete`).
+  ![image alt](https://github.com/neoaji1-svg/Laboratorio-9-ASP.NET/blob/226bfc20c7b189aab89cd1d0359088f6863000a1/Capturas/Pantalla%20principal.png)
 - `CRUD.aspx` — Formulario de creación / consulta / edición de usuario.
+  ![image alt](https://github.com/neoaji1-svg/Laboratorio-9-ASP.NET/blob/226bfc20c7b189aab89cd1d0359088f6863000a1/Capturas/Read.png)
+  ![image alt](https://github.com/neoaji1-svg/Laboratorio-9-ASP.NET/blob/226bfc20c7b189aab89cd1d0359088f6863000a1/Capturas/Update.png)
 - MySQL Workbench — Tabla `usuarios` verificando inserción, actualización y borrado lógico (`Anulado = 0`).
+  ![image alt](https://github.com/neoaji1-svg/Laboratorio-9-ASP.NET/blob/226bfc20c7b189aab89cd1d0359088f6863000a1/Capturas/Base%20de%20datos.png)
 
 ## 🗂️ Estructura de Directorios
 ```text
