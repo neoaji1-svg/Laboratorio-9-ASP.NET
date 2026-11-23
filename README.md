@@ -24,7 +24,6 @@ El sistema utiliza una página maestra (`MP.Master`) con barra de navegación y 
 - **DELETE:** Eliminación lógica desde `Index.aspx` mediante `sp_delete` (`Anulado = 0` y registro de `FechaEliminacion`).
 
 ### Evidencia Visual (Capturas)
-> Agrega aquí tus capturas de pantalla (por ejemplo, en una carpeta `docs/` o `screenshots/`):
 - `Index.aspx` — Listado de registros activos y opciones del administrador (`Read`, `Update`, `Delete`).
   ![image alt](https://github.com/neoaji1-svg/Laboratorio-9-ASP.NET/blob/226bfc20c7b189aab89cd1d0359088f6863000a1/Capturas/Pantalla%20principal.png)
 - `CRUD.aspx` — Formulario de creación / consulta / edición de usuario.
